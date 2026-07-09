@@ -1,7 +1,16 @@
+# Virtual Environment
 venv/
+
+# Environment Variables
 .env
-chroma_db/
-vectordb/
+
+# Python Cache
 __pycache__/
 *.pyc
+
+# Chroma Vector Database
+chroma_db/
+vectordb/
+
+# VS Code
 .vscode/
